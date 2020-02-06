@@ -1,0 +1,11 @@
+Patrick Yoder
+C#/Unity Developer, Specializing in Games
+
+Known Languages:
+C#/C++
+Python
+
+
+Provided Program(s):
+(Built versions are provided in .zip files in the folders)
+Wizard's Trial - Program created for a school project. Game Design, Programming & Art done by me.
